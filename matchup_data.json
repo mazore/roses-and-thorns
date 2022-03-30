@@ -1,0 +1,636 @@
+{
+    "mens": {
+        "0": {
+            "winner": null,
+            "team1": "1-Gonzaga",
+            "team2": "16-Georgia St"
+        },
+        "1": {
+            "winner": null,
+            "team1": "8-Boise St",
+            "team2": "9-Memphis"
+        },
+        "2": {
+            "winner": null,
+            "team1": "5-UConn",
+            "team2": "12-New Mexico St"
+        },
+        "3": {
+            "winner": null,
+            "team1": "4-Arkansas",
+            "team2": "13-Vermont"
+        },
+        "4": {
+            "winner": null,
+            "team1": "6-Alabama",
+            "team2": "11-Rutgers/Notre Dame"
+        },
+        "5": {
+            "winner": null,
+            "team1": "3-Texas Tech",
+            "team2": "14-Montana St"
+        },
+        "6": {
+            "winner": null,
+            "team1": "7-Michigan St",
+            "team2": "10-Davidson"
+        },
+        "7": {
+            "winner": null,
+            "team1": "2-Duke",
+            "team2": "15-CSU Fullerton"
+        },
+        "8": {
+            "winner": null,
+            "team1": "1-Baylor",
+            "team2": "16-Norfolk St"
+        },
+        "9": {
+            "winner": null,
+            "team1": "8-North Carolina",
+            "team2": "9-Marquette"
+        },
+        "10": {
+            "winner": null,
+            "team1": "5-Saint Marys",
+            "team2": "12-Wyoming/Indiana"
+        },
+        "11": {
+            "winner": null,
+            "team1": "4-UCLA",
+            "team2": "13-Akron"
+        },
+        "12": {
+            "winner": null,
+            "team1": "6-Texas",
+            "team2": "11-Virginia Tech"
+        },
+        "13": {
+            "winner": null,
+            "team1": "3-Purdue",
+            "team2": "14-Yale"
+        },
+        "14": {
+            "winner": null,
+            "team1": "7-Murray St",
+            "team2": "10-San Fran"
+        },
+        "15": {
+            "winner": null,
+            "team1": "2-Kentucky",
+            "team2": "15-St Peters"
+        },
+        "16": {
+            "winner": null,
+            "team1": "1-Arizona",
+            "team2": "16-Wright St/Bryant"
+        },
+        "17": {
+            "winner": null,
+            "team1": "8-Seton Hall",
+            "team2": "9-TCU"
+        },
+        "18": {
+            "winner": null,
+            "team1": "5-Houston",
+            "team2": "12-UAB"
+        },
+        "19": {
+            "winner": null,
+            "team1": "4-Illinois",
+            "team2": "13-Chattanooga"
+        },
+        "20": {
+            "winner": null,
+            "team1": "6-Colorado St",
+            "team2": "11-Michigan"
+        },
+        "21": {
+            "winner": null,
+            "team1": "3-Tennessee",
+            "team2": "14-Longwood"
+        },
+        "22": {
+            "winner": null,
+            "team1": "7-Ohio St",
+            "team2": "10-Layola Chicago"
+        },
+        "23": {
+            "winner": null,
+            "team1": "2-Villanova",
+            "team2": "15-Delaware"
+        },
+        "24": {
+            "winner": null,
+            "team1": "1-Kansas",
+            "team2": "16-TX Southern/TX A&M CC"
+        },
+        "25": {
+            "winner": null,
+            "team1": "8-San Diego St",
+            "team2": "9-Creighton"
+        },
+        "26": {
+            "winner": null,
+            "team1": "5-Iowa",
+            "team2": "12-Richmond"
+        },
+        "27": {
+            "winner": null,
+            "team1": "4-Providence",
+            "team2": "13-South Dakota St"
+        },
+        "28": {
+            "winner": null,
+            "team1": "6-LSA",
+            "team2": "11-Iowa St"
+        },
+        "29": {
+            "winner": null,
+            "team1": "3-Wisconsin",
+            "team2": "14-Colgate"
+        },
+        "30": {
+            "winner": null,
+            "team1": "7-USC",
+            "team2": "10-Miami"
+        },
+        "31": {
+            "winner": null,
+            "team1": "2-Auburn",
+            "team2": "15-Jacksonville St"
+        },
+        "32": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "33": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "34": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "35": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "36": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "37": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "38": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "39": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "40": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "41": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "42": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "43": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "44": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "45": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "46": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "47": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "48": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "49": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "50": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "51": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "52": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "53": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "54": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "55": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "56": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "57": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "58": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "59": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "60": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "61": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "62": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        }
+    },
+    "womens": {
+        "0": {
+            "winner": null,
+            "team1": "1-Gonzaga",
+            "team2": "16-Georgia St"
+        },
+        "1": {
+            "winner": null,
+            "team1": "8-Boise St",
+            "team2": "9-Memphis"
+        },
+        "2": {
+            "winner": null,
+            "team1": "5-UConn",
+            "team2": "12-New Mexico St"
+        },
+        "3": {
+            "winner": null,
+            "team1": "4-Arkansas",
+            "team2": "13-Vermont"
+        },
+        "4": {
+            "winner": null,
+            "team1": "6-Alabama",
+            "team2": "11-Rutgers/Notre Dame"
+        },
+        "5": {
+            "winner": null,
+            "team1": "3-Texas Tech",
+            "team2": "14-Montana St"
+        },
+        "6": {
+            "winner": null,
+            "team1": "7-Michigan St",
+            "team2": "10-Davidson"
+        },
+        "7": {
+            "winner": null,
+            "team1": "2-Duke",
+            "team2": "15-CSU Fullerton"
+        },
+        "8": {
+            "winner": null,
+            "team1": "1-Baylor",
+            "team2": "16-Norfolk St"
+        },
+        "9": {
+            "winner": null,
+            "team1": "8-North Carolina",
+            "team2": "9-Marquette"
+        },
+        "10": {
+            "winner": null,
+            "team1": "5-Saint Marys",
+            "team2": "12-Wyoming/Indiana"
+        },
+        "11": {
+            "winner": null,
+            "team1": "4-UCLA",
+            "team2": "13-Akron"
+        },
+        "12": {
+            "winner": null,
+            "team1": "6-Texas",
+            "team2": "11-Virginia Tech"
+        },
+        "13": {
+            "winner": null,
+            "team1": "3-Purdue",
+            "team2": "14-Yale"
+        },
+        "14": {
+            "winner": null,
+            "team1": "7-Murray St",
+            "team2": "10-San Fran"
+        },
+        "15": {
+            "winner": null,
+            "team1": "2-Kentucky",
+            "team2": "15-St Peters"
+        },
+        "16": {
+            "winner": null,
+            "team1": "1-Arizona",
+            "team2": "16-Wright St/Bryant"
+        },
+        "17": {
+            "winner": null,
+            "team1": "8-Seton Hall",
+            "team2": "9-TCU"
+        },
+        "18": {
+            "winner": null,
+            "team1": "5-Houston",
+            "team2": "12-UAB"
+        },
+        "19": {
+            "winner": null,
+            "team1": "4-Illinois",
+            "team2": "13-Chattanooga"
+        },
+        "20": {
+            "winner": null,
+            "team1": "6-Colorado St",
+            "team2": "11-Michigan"
+        },
+        "21": {
+            "winner": null,
+            "team1": "3-Tennessee",
+            "team2": "14-Longwood"
+        },
+        "22": {
+            "winner": null,
+            "team1": "7-Ohio St",
+            "team2": "10-Layola Chicago"
+        },
+        "23": {
+            "winner": null,
+            "team1": "2-Villanova",
+            "team2": "15-Delaware"
+        },
+        "24": {
+            "winner": null,
+            "team1": "1-Kansas",
+            "team2": "16-TX Southern/TX A&M CC"
+        },
+        "25": {
+            "winner": null,
+            "team1": "8-San Diego St",
+            "team2": "9-Creighton"
+        },
+        "26": {
+            "winner": null,
+            "team1": "5-Iowa",
+            "team2": "12-Richmond"
+        },
+        "27": {
+            "winner": null,
+            "team1": "4-Providence",
+            "team2": "13-South Dakota St"
+        },
+        "28": {
+            "winner": null,
+            "team1": "6-LSA",
+            "team2": "11-Iowa St"
+        },
+        "29": {
+            "winner": null,
+            "team1": "3-Wisconsin",
+            "team2": "14-Colgate"
+        },
+        "30": {
+            "winner": null,
+            "team1": "7-USC",
+            "team2": "10-Miami"
+        },
+        "31": {
+            "winner": null,
+            "team1": "2-Auburn",
+            "team2": "15-Jacksonville St"
+        },
+        "32": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "33": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "34": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "35": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "36": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "37": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "38": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "39": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "40": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "41": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "42": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "43": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "44": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "45": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "46": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "47": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "48": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "49": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "50": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "51": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "52": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "53": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "54": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "55": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "56": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "57": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "58": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "59": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "60": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "61": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        },
+        "62": {
+            "winner": null,
+            "team1": "",
+            "team2": ""
+        }
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "mens": {
+        "0": {
+            "winner": null,
+            "team1": "Gonzaga",
+            "team2": "Georgia"
+        },
+        "1": {
+            "winner": null,
+            "team1": "Boise State",
+            "team2": "Memphis"
+        },
+        "2": {
+            "winner": null,
+            "team1": "UConn",
+            "team2": "New Mexico St."
+        },
+        "3": {
+            "winner": null,
+            "team1": "Arkansas",
+            "team2": "Vermont"
+        },
+        "4": {
+            "winner": null,
+            "team1": "Alabama",
+            "team2": "RUT/Notre Dame"
+        },
+        "5": {
+            "winner": null,
+            "team1": "Texas Tech",
+            "team2": "Montana State"
+        },
+        "6": {
+            "winner": null,
+            "team1": "Michigan State",
+            "team2": "Davidson"
+        },
+        "7": {
+            "winner": null,
+            "team1": "Duke",
+            "team2": "Cal St. Fullerton"
+        },
+        "8": {
+            "winner": null,
+            "team1": "Baylor",
+            "team2": "Norfolk State"
+        },
+        "9": {
+            "winner": null,
+            "team1": "North Carolina",
+            "team2": "Marquette"
+        },
+        "10": {
+            "winner": null,
+            "team1": "Saint Mary's",
+            "team2": "Wyom/Indiana"
+        },
+        "11": {
+            "winner": null,
+            "team1": "UCLA",
+            "team2": "Akron"
+        },
+        "12": {
+            "winner": null,
+            "team1": "Texas",
+            "team2": "Virgina Tech"
+        },
+        "13": {
+            "winner": null,
+            "team1": "Purdue",
+            "team2": "Yale"
+        },
+        "14": {
+            "winner": null,
+            "team1": "Murray State",
+            "team2": "San Francisco"
+        },
+        "15": {
+            "winner": null,
+            "team1": "Kentucky",
+            "team2": "St. Peters"
+        },
+        "16": {
+            "winner": null,
+            "team1": "Arizona",
+            "team2": "WrSt/Bry"
+        },
+        "17": {
+            "winner": null,
+            "team1": "Seton Hall",
+            "team2": "TCU"
+        },
+        "18": {
+            "winner": null,
+            "team1": "Houston",
+            "team2": "UAB"
+        },
+        "19": {
+            "winner": null,
+            "team1": "Illinois",
+            "team2": "Chattanooga"
+        },
+        "20": {
+            "winner": null,
+            "team1": "Colorado State",
+            "team2": "Michigan"
+        },
+        "21": {
+            "winner": null,
+            "team1": "Tennessee",
+            "team2": "Longwood"
+        },
+        "22": {
+            "winner": null,
+            "team1": "Ohio State",
+            "team2": "Loyola Chicago"
+        },
+        "23": {
+            "winner": null,
+            "team1": "Villanova",
+            "team2": "Delaware"
+        },
+        "24": {
+            "winner": null,
+            "team1": "Kansas",
+            "team2": "TXSo/TCC"
+        },
+        "25": {
+            "winner": null,
+            "team1": "San Diego St.",
+            "team2": "Creighton"
+        },
+        "26": {
+            "winner": null,
+            "team1": "Iowa",
+            "team2": "Richmond"
+        },
+        "27": {
+            "winner": null,
+            "team1": "Providence",
+            "team2": "South Dakota St."
+        },
+        "28": {
+            "winner": null,
+            "team1": "LSU",
+            "team2": "Iowa St."
+        },
+        "29": {
+            "winner": null,
+            "team1": "Wisconsin",
+            "team2": "Colgate"
+        },
+        "30": {
+            "winner": null,
+            "team1": "USC",
+            "team2": "Miami (FL)"
+        },
+        "31": {
+            "winner": null,
+            "team1": "Auburn",
+            "team2": "Jacksonville St."
+        }
+    },
+    "womens": {
+        "0": {
+            "winner": null,
+            "team1": "South Carolina",
+            "team2": "HOW/UIW"
+        },
+        "1": {
+            "winner": null,
+            "team1": "Miami (FL)",
+            "team2": "South Florida"
+        },
+        "2": {
+            "winner": null,
+            "team1": "North Carolina",
+            "team2": "SFA"
+        },
+        "3": {
+            "winner": null,
+            "team1": "Arizona",
+            "team2": "UNLV"
+        },
+        "4": {
+            "winner": null,
+            "team1": "Georgia",
+            "team2": "DAY/DEP"
+        },
+        "5": {
+            "winner": null,
+            "team1": "Iowa State",
+            "team2": "UT Arlington"
+        },
+        "6": {
+            "winner": null,
+            "team1": "Colorado",
+            "team2": "Creighton"
+        },
+        "7": {
+            "winner": null,
+            "team1": "Iowa",
+            "team2": "Illinois State"
+        },
+        "8": {
+            "winner": null,
+            "team1": "Louisville",
+            "team2": "U Albany"
+        },
+        "9": {
+            "winner": null,
+            "team1": "Nebraska",
+            "team2": "Gonzaga"
+        },
+        "10": {
+            "winner": null,
+            "team1": "Oregon",
+            "team2": "Belmont"
+        },
+        "11": {
+            "winner": null,
+            "team1": "Tennessee",
+            "team2": "Buffalo"
+        },
+        "12": {
+            "winner": null,
+            "team1": "BYU",
+            "team2": "Villanova"
+        },
+        "13": {
+            "winner": null,
+            "team1": "Michigan",
+            "team2": "American"
+        },
+        "14": {
+            "winner": null,
+            "team1": "Ole Miss",
+            "team2": "South Dakota"
+        },
+        "15": {
+            "winner": null,
+            "team1": "Baylor",
+            "team2": "Hawaii"
+        },
+        "16": {
+            "winner": null,
+            "team1": "Stanford",
+            "team2": "Montana State"
+        },
+        "17": {
+            "winner": null,
+            "team1": "Kansas",
+            "team2": "Georgia Tech"
+        },
+        "18": {
+            "winner": null,
+            "team1": "Virginia Tech",
+            "team2": "FGCU"
+        },
+        "19": {
+            "winner": null,
+            "team1": "Maryland",
+            "team2": "Delaware"
+        },
+        "20": {
+            "winner": null,
+            "team1": "Ohio State",
+            "team2": "MDST/FSU"
+        },
+        "21": {
+            "winner": null,
+            "team1": "LSU",
+            "team2": "Jackson State"
+        },
+        "22": {
+            "winner": null,
+            "team1": "Utah",
+            "team2": "Arkansas"
+        },
+        "23": {
+            "winner": null,
+            "team1": "Texas",
+            "team2": "Fairfield"
+        },
+        "24": {
+            "winner": null,
+            "team1": "NC State",
+            "team2": "LONG/MSM"
+        },
+        "25": {
+            "winner": null,
+            "team1": "Washington St.",
+            "team2": "Kansas State"
+        },
+        "26": {
+            "winner": null,
+            "team1": "Notre Dame",
+            "team2": "Massachusetts"
+        },
+        "27": {
+            "winner": null,
+            "team1": "Oklahoma",
+            "team2": "IUPUI"
+        },
+        "28": {
+            "winner": null,
+            "team1": "Kentucky",
+            "team2": "Princeton"
+        },
+        "29": {
+            "winner": null,
+            "team1": "Indiana",
+            "team2": "Charlotte"
+        },
+        "30": {
+            "winner": null,
+            "team1": "UCF",
+            "team2": "Florida"
+        },
+        "31": {
+            "winner": null,
+            "team1": "UConn",
+            "team2": "Mercer"
+        }
+    }
+}
